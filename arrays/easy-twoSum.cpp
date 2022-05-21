@@ -11,7 +11,6 @@ public:
                     ans = {i,j};
                     break;
                 }
-            
             }
         }
         return ans;
